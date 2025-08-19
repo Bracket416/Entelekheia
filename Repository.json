@@ -1,0 +1,28 @@
+[
+    {
+        "Author": "Sonzai416",
+        "Name": "Dynamis",
+        "Punchline": "Cast away monotony!",
+        "Description": "Seamlessly enable and disable mods in Penumbra using actions in game.",
+        "Changelog": "",
+        "InternalName": "Dynamis",
+        "AssemblyVersion": "0.1.0",
+        "RepoUrl": "https://github.com/Bracket416/Dynamis",
+        "ApplicableVersion": "any",
+        "CategoryTags": [
+            "penumbra",
+            "vfx",
+            "action",
+            "combat"
+        ],
+        "DalamudApiLevel": 13,
+        "DownloadLinkInstall": "https://github.com/Bracket416/Dynamis/releases/download/Release/Dynamis.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/Bracket416/Dynamis/releases/download/Release/Dynamis.zip",
+        "DownloadLinkUpdate": "https://github.com/Bracket416/Dynamis/releases/download/Release/Dynamis.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1754893981"
+    }
+
+]
