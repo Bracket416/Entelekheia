@@ -40,15 +40,16 @@
             "mitigation"
         ],
         "DalamudApiLevel": 13,
-        "DownloadLinkInstall": "https://github.com/Bracket416/Makrognosis/releases/download/Release/Makrognosis.zip",
+        "DownloadLinkInstall": "https://github.com/Bracket416/Makrognosis/releases/download/0.1.1/Makrognosis.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/Bracket416/Makrognosis/releases/download/Release/Dynamis.zip",
-        "DownloadLinkUpdate": "https://github.com/Bracket416/Makrognosis/releases/download/Release/Makrognosis.zip",
+        "DownloadLinkTesting": "https://github.com/Bracket416/Makrognosis/releases/download/0.1.1/Makrognosis.zip",
+        "DownloadLinkUpdate": "https://github.com/Bracket416/Makrognosis/releases/download/0.1.1/Makrognosis.zip",
         "DownloadCount": 0,
         "LastUpdate": "1755616028"
     }
 ]
+
 
 
 
