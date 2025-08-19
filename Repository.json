@@ -6,7 +6,7 @@
         "Description": "Seamlessly enable and disable mods in Penumbra using actions in game.",
         "Changelog": "",
         "InternalName": "Dynamis",
-        "AssemblyVersion": "0.1.1",
+        "AssemblyVersion": "0.1.2",
         "RepoUrl": "https://github.com/Bracket416/Dynamis",
         "ApplicableVersion": "any",
         "CategoryTags": [
@@ -16,13 +16,13 @@
             "combat"
         ],
         "DalamudApiLevel": 13,
-        "DownloadLinkInstall": "https://github.com/Bracket416/Dynamis/releases/download/0.1.1/Dynamis.zip",
+        "DownloadLinkInstall": "https://github.com/Bracket416/Dynamis/releases/download/0.1.2/Dynamis.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/Bracket416/Dynamis/releases/download/0.1.1/Dynamis.zip",
-        "DownloadLinkUpdate": "https://github.com/Bracket416/Dynamis/releases/download/0.1.1/Dynamis.zip",
+        "DownloadLinkTesting": "https://github.com/Bracket416/Dynamis/releases/download/0.1.2/Dynamis.zip",
+        "DownloadLinkUpdate": "https://github.com/Bracket416/Dynamis/releases/download/0.1.2/Dynamis.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1755622317"
+        "LastUpdate": "1755634705"
     },
         {
         "Author": "Sonzai416",
@@ -49,6 +49,7 @@
         "LastUpdate": "1755616028"
     }
 ]
+
 
 
 
