@@ -29,9 +29,9 @@
         "Name": "Makrognosis",
         "Punchline": "Cast away ignorance!",
         "Description": "In raiding, there is no ignorabimus!",
-        "Changelog": "Added support for 'begins casting.'",
+        "Changelog": "Added mitigation percentages and fixed a few issues.",
         "InternalName": "Makrognosis",
-        "AssemblyVersion": "0.1.2",
+        "AssemblyVersion": "0.1.3",
         "RepoUrl": "https://github.com/Bracket416/Makrognosis",
         "ApplicableVersion": "any",
         "CategoryTags": [
@@ -40,15 +40,16 @@
             "mitigation"
         ],
         "DalamudApiLevel": 13,
-        "DownloadLinkInstall": "https://github.com/Bracket416/Makrognosis/releases/download/0.1.2/Makrognosis.zip",
+        "DownloadLinkInstall": "https://github.com/Bracket416/Makrognosis/releases/download/0.1.3/Makrognosis.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/Bracket416/Makrognosis/releases/download/0.1.2/Makrognosis.zip",
-        "DownloadLinkUpdate": "https://github.com/Bracket416/Makrognosis/releases/download/0.1.2/Makrognosis.zip",
+        "DownloadLinkTesting": "https://github.com/Bracket416/Makrognosis/releases/download/0.1.3/Makrognosis.zip",
+        "DownloadLinkUpdate": "https://github.com/Bracket416/Makrognosis/releases/download/0.1.3/Makrognosis.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1755670256"
+        "LastUpdate": "1755674044"
     }
 ]
+
 
 
 
