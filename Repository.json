@@ -29,7 +29,7 @@
         "Name": "Makrognosis",
         "Punchline": "Cast away ignorance!",
         "Description": "In raiding, there is no ignorabimus!",
-        "Changelog": "Added mechanic names.",
+        "Changelog": "Improved prediction and colored total health.",
         "InternalName": "Makrognosis",
         "AssemblyVersion": "0.1.5",
         "RepoUrl": "https://github.com/Bracket416/Makrognosis",
@@ -49,6 +49,7 @@
         "LastUpdate": "1755859227"
     }
 ]
+
 
 
 
