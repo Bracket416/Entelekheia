@@ -6,7 +6,7 @@
         "Description": "Weary wanderer, have you sought the stars on high?",
         "Changelog": "",
         "InternalName": "Rythmos",
-        "AssemblyVersion": "0.1.0",
+        "AssemblyVersion": "0.1.1",
         "RepoUrl": "https://github.com/Bracket416/Rythmos",
         "ApplicableVersion": "any",
         "CategoryTags": [
@@ -15,11 +15,11 @@
             "sync"
         ],
         "DalamudApiLevel": 13,
-        "DownloadLinkInstall": "https://github.com/Bracket416/Rythmos/releases/download/Release/Rythmos.zip",
+        "DownloadLinkInstall": "https://github.com/Bracket416/Rythmos/releases/download/0.1.1/Rythmos.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/Bracket416/Rythmos/releases/download/Release/Rythmos.zip",
-        "DownloadLinkUpdate": "https://github.com/Bracket416/Rythmos/releases/download/Release/Rythmos.zip",
+        "DownloadLinkTesting": "https://github.com/Bracket416/Rythmos/releases/download/0.1.1/Rythmos.zip",
+        "DownloadLinkUpdate": "https://github.com/Bracket416/Rythmos/releases/download/0.1.1/Rythmos.zip",
         "DownloadCount": 0,
         "LastUpdate": "1756036023"
     },
@@ -46,7 +46,7 @@
         "DownloadLinkTesting": "https://github.com/Bracket416/Dynamis/releases/download/0.1.2/Dynamis.zip",
         "DownloadLinkUpdate": "https://github.com/Bracket416/Dynamis/releases/download/0.1.2/Dynamis.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1755634705"
+        "LastUpdate": "1756040637"
     },
         {
         "Author": "Sonzai416",
@@ -73,6 +73,7 @@
         "LastUpdate": "1755859227"
     }
 ]
+
 
 
 
