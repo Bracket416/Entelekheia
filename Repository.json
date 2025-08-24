@@ -1,6 +1,30 @@
 [
     {
         "Author": "Sonzai416",
+        "Name": "Rythmos",
+        "Punchline": "Cast away solitude!",
+        "Description": "Weary wanderer, have you sought the stars on high?",
+        "Changelog": "",
+        "InternalName": "Rythmos",
+        "AssemblyVersion": "0.1.0",
+        "RepoUrl": "https://github.com/Bracket416/Rythmos",
+        "ApplicableVersion": "any",
+        "CategoryTags": [
+            "penumbra",
+            "vfx",
+            "sync"
+        ],
+        "DalamudApiLevel": 13,
+        "DownloadLinkInstall": "https://github.com/Bracket416/Dynamis/releases/download/0.1.0/Rythmos.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/Bracket416/Rythmos/releases/download/0.1.0/Rythmos.zip",
+        "DownloadLinkUpdate": "https://github.com/Bracket416/Rythmos/releases/download/0.1.0/Rythmos.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1756036023"
+    },
+    {
+        "Author": "Sonzai416",
         "Name": "Dynamis",
         "Punchline": "Cast away monotony!",
         "Description": "Seamlessly enable and disable mods in Penumbra using actions in game.",
@@ -49,6 +73,7 @@
         "LastUpdate": "1755859227"
     }
 ]
+
 
 
 
