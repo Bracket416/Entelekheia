@@ -15,11 +15,11 @@
             "sync"
         ],
         "DalamudApiLevel": 13,
-        "DownloadLinkInstall": "https://github.com/Bracket416/Dynamis/releases/download/0.1.0/Rythmos.zip",
+        "DownloadLinkInstall": "https://github.com/Bracket416/Rythmos/releases/download/Release/Rythmos.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/Bracket416/Rythmos/releases/download/0.1.0/Rythmos.zip",
-        "DownloadLinkUpdate": "https://github.com/Bracket416/Rythmos/releases/download/0.1.0/Rythmos.zip",
+        "DownloadLinkTesting": "https://github.com/Bracket416/Rythmos/releases/download/Release/Rythmos.zip",
+        "DownloadLinkUpdate": "https://github.com/Bracket416/Rythmos/releases/download/Release/Rythmos.zip",
         "DownloadCount": 0,
         "LastUpdate": "1756036023"
     },
@@ -73,6 +73,7 @@
         "LastUpdate": "1755859227"
     }
 ]
+
 
 
 
