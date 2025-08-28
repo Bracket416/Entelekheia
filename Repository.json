@@ -30,7 +30,7 @@
         "Description": "Seamlessly enable and disable mods in Penumbra using actions in game.",
         "Changelog": "",
         "InternalName": "Dynamis",
-        "AssemblyVersion": "0.1.3",
+        "AssemblyVersion": "0.1.4",
         "RepoUrl": "https://github.com/Bracket416/Dynamis",
         "ApplicableVersion": "any",
         "CategoryTags": [
@@ -40,13 +40,13 @@
             "combat"
         ],
         "DalamudApiLevel": 13,
-        "DownloadLinkInstall": "https://github.com/Bracket416/Dynamis/releases/download/0.1.3/Dynamis.zip",
+        "DownloadLinkInstall": "https://github.com/Bracket416/Dynamis/releases/download/0.1.4/Dynamis.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/Bracket416/Dynamis/releases/download/0.1.3/Dynamis.zip",
-        "DownloadLinkUpdate": "https://github.com/Bracket416/Dynamis/releases/download/0.1.3/Dynamis.zip",
+        "DownloadLinkTesting": "https://github.com/Bracket416/Dynamis/releases/download/0.1.4/Dynamis.zip",
+        "DownloadLinkUpdate": "https://github.com/Bracket416/Dynamis/releases/download/0.1.4/Dynamis.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1756233568"
+        "LastUpdate": "1756398545"
     },
         {
         "Author": "Sonzai416",
@@ -55,7 +55,7 @@
         "Description": "In raiding, there is no ignorabimus!",
         "Changelog": "Added missing mitigations.",
         "InternalName": "Makrognosis",
-        "AssemblyVersion": "0.1.6.2",
+        "AssemblyVersion": "0.1.6.3",
         "RepoUrl": "https://github.com/Bracket416/Makrognosis",
         "ApplicableVersion": "any",
         "CategoryTags": [
@@ -64,15 +64,16 @@
             "mitigation"
         ],
         "DalamudApiLevel": 13,
-        "DownloadLinkInstall": "https://github.com/Bracket416/Makrognosis/releases/download/0.1.6.2/Makrognosis.zip",
+        "DownloadLinkInstall": "https://github.com/Bracket416/Makrognosis/releases/download/0.1.6.3/Makrognosis.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/Bracket416/Makrognosis/releases/download/0.1.6.2/Makrognosis.zip",
-        "DownloadLinkUpdate": "https://github.com/Bracket416/Makrognosis/releases/download/0.1.6.2/Makrognosis.zip",
+        "DownloadLinkTesting": "https://github.com/Bracket416/Makrognosis/releases/download/0.1.6.3/Makrognosis.zip",
+        "DownloadLinkUpdate": "https://github.com/Bracket416/Makrognosis/releases/download/0.1.6.3/Makrognosis.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1756331904"
+        "LastUpdate": "1756398485"
     }
 ]
+
 
 
 
