@@ -53,9 +53,9 @@
         "Name": "Makrognosis",
         "Punchline": "Cast away ignorance!",
         "Description": "In raiding, there is no ignorabimus!",
-        "Changelog": "Added missing mitigations.",
+        "Changelog": "Fixed common source of crashing.",
         "InternalName": "Makrognosis",
-        "AssemblyVersion": "0.1.6.5",
+        "AssemblyVersion": "0.1.6.6",
         "RepoUrl": "https://github.com/Bracket416/Makrognosis",
         "ApplicableVersion": "any",
         "CategoryTags": [
@@ -64,15 +64,16 @@
             "mitigation"
         ],
         "DalamudApiLevel": 13,
-        "DownloadLinkInstall": "https://github.com/Bracket416/Makrognosis/releases/download/0.1.6.5/Makrognosis.zip",
+        "DownloadLinkInstall": "https://github.com/Bracket416/Makrognosis/releases/download/0.1.6.6/Makrognosis.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/Bracket416/Makrognosis/releases/download/0.1.6.5/Makrognosis.zip",
-        "DownloadLinkUpdate": "https://github.com/Bracket416/Makrognosis/releases/download/0.1.6.5/Makrognosis.zip",
+        "DownloadLinkTesting": "https://github.com/Bracket416/Makrognosis/releases/download/0.1.6.6/Makrognosis.zip",
+        "DownloadLinkUpdate": "https://github.com/Bracket416/Makrognosis/releases/download/0.1.6.6/Makrognosis.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1756994683"
+        "LastUpdate": "1757002768"
     }
 ]
+
 
 
 
