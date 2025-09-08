@@ -18,7 +18,7 @@
         "DownloadLinkInstall": "https://github.com/Bracket416/Rythmos/releases/download/0.2.2.3/Rythmos.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/Bracket416/Rythmos/releases/download/0.2.2.3Rythmos.zip",
+        "DownloadLinkTesting": "https://github.com/Bracket416/Rythmos/releases/download/0.2.2.3/Rythmos.zip",
         "DownloadLinkUpdate": "https://github.com/Bracket416/Rythmos/releases/download/0.2.2.3/Rythmos.zip",
         "DownloadCount": 0,
         "LastUpdate": "1757312657"
@@ -73,6 +73,7 @@
         "LastUpdate": "1757191559"
     }
 ]
+
 
 
 
