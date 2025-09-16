@@ -6,7 +6,7 @@
         "Description": "Weary wanderer, have you sought the stars on high?",
         "Changelog": "",
         "InternalName": "Rythmos",
-        "AssemblyVersion": "0.2.3.5",
+        "AssemblyVersion": "0.2.3.6",
         "RepoUrl": "https://github.com/Bracket416/Rythmos",
         "ApplicableVersion": "any",
         "CategoryTags": [
@@ -15,13 +15,13 @@
             "sync"
         ],
         "DalamudApiLevel": 13,
-        "DownloadLinkInstall": "https://github.com/Bracket416/Rythmos/releases/download/0.2.3.5/Rythmos.zip",
+        "DownloadLinkInstall": "https://github.com/Bracket416/Rythmos/releases/download/0.2.3.6/Rythmos.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/Bracket416/Rythmos/releases/download/0.2.3.5/Rythmos.zip",
-        "DownloadLinkUpdate": "https://github.com/Bracket416/Rythmos/releases/download/0.2.3.5/Rythmos.zip",
+        "DownloadLinkTesting": "https://github.com/Bracket416/Rythmos/releases/download/0.2.3.6/Rythmos.zip",
+        "DownloadLinkUpdate": "https://github.com/Bracket416/Rythmos/releases/download/0.2.3.6/Rythmos.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1758022888"
+        "LastUpdate": "1758025829"
     },
     {
         "Author": "Sonzai416",
@@ -73,6 +73,7 @@
         "LastUpdate": "1757382247"
     }
 ]
+
 
 
 
